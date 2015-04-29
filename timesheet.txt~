@@ -1,0 +1,29 @@
+System Info
+
+Task 1 -
+
+CPU - Intel(3200Mhz)
+Redhat Linux 2.6.18
+MemTotal:      8181676 kB
+postgres (PostgreSQL) 8.4.20
+mysql  Ver 14.12
+
+Task -2 
+Please find the pythontask.py file @ https://github.com/kannancet/endpoint-test.git . Done with no knowledge of python.
+Need to find the entries with most view count. Sorting shoudn't be on a loop. Its should use aquick python method inbuilt.
+
+Task - 3
+tail -f /log | grep '[error.critical]' 
+Dont know show to filter by date
+
+Task -4 - Done. See  window-close-task-#2921.html @ https://github.com/kannancet/endpoint-test.git
+
+Taks 5 - Not Done.Didn't understand question.
+
+Task 6 - Add opacity 1 !important . see popupcss-1595.css @ https://github.com/kannancet/endpoint-test.git
+
+Task 7 - Logic is simple. 
+
+Task 8 - Accomplished using wheneverize gem. See cronjob folder inside https://github.com/kannancet/endpoint-test.git
+
+Taks 9 - Not Done. Not good at shell scripting
