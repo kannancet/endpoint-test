@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+</head>
+<body>
+	<p>Window close prevent</p>
+</body>
+<script>
+window.onbeforeunload = function() {
+    return "Do you really want to quit the page ?";
+};
+</script>
+</html>

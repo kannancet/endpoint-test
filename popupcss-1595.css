@@ -1,0 +1,13 @@
+div.no-hover {
+background: rgba(2, 2, 2, 0.85);
+color: white;
+padding: 10px;
+width: 520px;
+overflow: auto;
+margin-left: -404px;
+z-index: 1;
+position: absolute;
+box-shadow: #666 0px 0px 8px;
+display: none;
+opacity: 1 !important;
+}
